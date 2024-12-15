@@ -4,4 +4,4 @@ The above github repository has the code for predicting gestational diabetes in 
 - flowchart.py - This script contains the code to create a flowchart of the ML model proposed in the study.
 - NN_predictions.py - This script contains the proposed Neural Net model to predict GDM.
 
-This folder contains the NN model from another author. We ran it to compare our NN model's performance results. [GitHub Link](https://github.com/Asirwad/Diabetes-Prediction-on-PIMA-dataset-using-CNN/)
+The CNN folder contains the NN model from another author. We ran it to compare our NN model's performance results. [GitHub Link](https://github.com/Asirwad/Diabetes-Prediction-on-PIMA-dataset-using-CNN/)

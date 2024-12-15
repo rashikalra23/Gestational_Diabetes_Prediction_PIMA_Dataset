@@ -5,4 +5,5 @@ The above github repository has the code for predicting gestational diabetes in 
 - NN_predictions.py - This script contains the proposed Neural Net model to predict GDM.
 
 The CNN folder contains the NN model from another author. We ran it to compare our NN model's performance results. [GitHub Link](https://github.com/Asirwad/Diabetes-Prediction-on-PIMA-dataset-using-CNN/)
+
 [Link for PIMA dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
